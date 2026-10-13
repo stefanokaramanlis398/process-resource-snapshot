@@ -1,6 +1,6 @@
 [project]
 name = "process-resource-snapshot"
-version = "0.1.0"
+version = "0.1.1"
 description = "A context manager that captures CPU time, memory blocks, and open fd counts before and after a block, computing the delta for resource attribution."
 requires-python = ">=3.10"
 dependencies = []
